@@ -232,4 +232,3 @@ Different prompts were designed and refined for two image-generation scenarios. 
 
 ✨ END OF EXPERIMENT – 08 ✨
 
-📌 Important: The two images above are illustrative examples, not actual reproductions of your lab's reference images. Upload the original two images from your experiment sheet if you want the prompts and comparison report to match them accurately.
